@@ -3516,7 +3516,10 @@ a {
     }
 
     .guest-9 {
-        display: none;
+        position: static;
+        width: 33%;
+        height: 80px;
+        float: left;
     }
 
     .guest-10 {
